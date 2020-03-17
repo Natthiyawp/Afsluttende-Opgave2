@@ -1,0 +1,27 @@
+
+@import '../../../../GlobalStyles/variabler';
+
+// used variables : $linkcolor, $linkactivecolor 
+.navbar_link {
+    color: $linkcolor;
+    text-decoration: none;
+}
+
+.navbar_link--active {
+    color: $linkactivecolor;
+}
+
+li {
+    display: inline-block;
+    size: 100px;
+}
+
+.btn-outline-success {
+    background-color: black !important;
+    color: white !important;
+}
+
+a {
+    font-size: 20px !important;
+}
+

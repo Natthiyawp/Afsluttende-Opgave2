@@ -1,0 +1,44 @@
+
+
+
+.malta {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+
+  .imgMalta {
+    border: 50px solid #ffffff;
+    border-radius: 100px;
+  }
+}
+
+.norge {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+
+  .imgNorge{
+    border: 50px solid #ffffff;
+    border-radius: 100px;
+  }
+}
+
+
+
+figcaption {
+  background-color: black;
+  color: white;
+}
+
+strong {
+  padding: 20px;
+  font-size: 50px;
+}
+
+p {
+  text-align: center;
+  padding: 50px 20px;
+  
+}
